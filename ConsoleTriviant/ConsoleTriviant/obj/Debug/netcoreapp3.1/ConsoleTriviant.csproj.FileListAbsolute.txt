@@ -1,0 +1,13 @@
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\obj\Debug\netcoreapp3.1\ConsoleTriviant.csprojAssemblyReference.cache
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\obj\Debug\netcoreapp3.1\ConsoleTriviant.AssemblyInfoInputs.cache
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\obj\Debug\netcoreapp3.1\ConsoleTriviant.AssemblyInfo.cs
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\obj\Debug\netcoreapp3.1\ConsoleTriviant.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\bin\Debug\netcoreapp3.1\ConsoleTriviant.exe
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\bin\Debug\netcoreapp3.1\ConsoleTriviant.deps.json
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\bin\Debug\netcoreapp3.1\ConsoleTriviant.runtimeconfig.json
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\bin\Debug\netcoreapp3.1\ConsoleTriviant.runtimeconfig.dev.json
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\bin\Debug\netcoreapp3.1\ConsoleTriviant.dll
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\bin\Debug\netcoreapp3.1\ConsoleTriviant.pdb
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\obj\Debug\netcoreapp3.1\ConsoleTriviant.dll
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\obj\Debug\netcoreapp3.1\ConsoleTriviant.pdb
+C:\Users\Student.DESKTOP-NLE9OIH\source\repos\ConsoleTriviant\ConsoleTriviant\obj\Debug\netcoreapp3.1\ConsoleTriviant.genruntimeconfig.cache
